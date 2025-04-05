@@ -18,7 +18,7 @@ python-exercises/
 │   ├── math-tutor/             # A math learning application
 │   ├── number-guessing-game/   # A fun number guessing game
 │
-├── small-python-projects/      # Solutions to projects from a Python book
+├── small-python-projects/      # Solutions to projects from big book of small python projects
 │
 └── bulk-regex-rename/          # A tool to rename video files using regex (CLI & GUI with Tkinter)
 ```
@@ -35,6 +35,10 @@ python-exercises/
    ```bash
    python filename.py
    ```
+
+
+## ℹ️ More Info
+In each folder it will be a README.md that gives a short explaination of each project
 
 ## 🛠 Tech Stack & Tools
 - **Python** 🐍
