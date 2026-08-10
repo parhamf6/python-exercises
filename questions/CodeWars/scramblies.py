@@ -13,5 +13,3 @@ def scramble(s1, s2):
         if fs2[c]> fs1[c]:
             return False
     return True
-
-print(scramble('cedewaraaossoqqyt', 'codewars'))
